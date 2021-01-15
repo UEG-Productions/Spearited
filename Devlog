@@ -11,3 +11,13 @@ Updates from 1/14/2021
 - Fog
 - Background trees
 - Blizzard sounds and snow speed
+
+Updates from 1/15/2021
+
+- Fixed bug where lighting followed the camera
+- Stones will not respawn if the player is in the way to prevent death from being trapped
+- Title screen:
+  - Changed bird position
+  - New mountain
+  - Tree layers created
+- Level 1 fully finished and ready for publication.
