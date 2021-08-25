@@ -1,5 +1,3 @@
-8/24/2021
-
 Grab some coffee and stay a while!  /(^_^)>C|_|
 
 - New animations!
@@ -13,3 +11,7 @@ Grab some coffee and stay a while!  /(^_^)>C|_|
 - Particles for sliding on walls increased from 0 to 100 real quick
   - Particles come from her feet and hands
   - sounds added for wall slides
+ 
+ - Optimized snow particles
+ - Removed excess code in snow system
+   - deleted 4 snow objects
