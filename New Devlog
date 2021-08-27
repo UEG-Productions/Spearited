@@ -15,3 +15,6 @@ Grab some coffee and stay a while!  /(^_^)>C|_|
  - Optimized snow particles
  - Removed excess code in snow system
    - deleted 4 snow objects
+
+- Fixed that god aweful collision bug with wallsliding
+  -(so happy it's fixed that really sucked)
